@@ -8,3 +8,4 @@ Responsive Design: Optimized for desktop and mobile devices.
 Technologies Used:
 Frontend: HTML, CSS, JavaScript
 Image Processing: HTML5 Canvas API for resizing images.
+https://xcode83.github.io/Image-Resizer/
